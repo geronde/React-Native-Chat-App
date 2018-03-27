@@ -24,11 +24,6 @@ Download and install the repo with ```npm i``` or ```yarn install```
    npm run dev or yarn dev
 
 ```
-
-###Demo 
-
-Try it out [here]()
-
-###Note
+### Note
 
 Because I've used react-native-web, there were some compatibility issues with react-navigator. As since the release of v1.0.0, react-native-web is no longer supported by react-navigation so I had to use older versions which had minor bugs such as modal being called twice, stack navigator tint color not working...
