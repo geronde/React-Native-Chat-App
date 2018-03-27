@@ -6,7 +6,7 @@ My first dive into react native world!
 
 I've made a chatting app layout using react native web as it seemed easy to start with. And if it works on the web, it will work across all other mobile plateforms!
 
-[Checkout the demo](https://geronde.github.io/React-Native-Chat-App)
+[Checkout the demo](https://geronde.github.io/React-Native-Chat-App-Demo)
 
 ### Prerequisites
 
